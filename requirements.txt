@@ -1,0 +1,10 @@
+wfdb
+numpy
+matplotlib
+pandas
+scipy
+scikit-learn
+torch
+torchvision
+torchaudio
+streamlit

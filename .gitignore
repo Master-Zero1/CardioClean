@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ── CardioClean specific ─────────────
+# Data files (MIT-BIH formats + arrays)
+data/*.npy
+data/*.csv
+data/*.dat
+data/*.hea
+data/*.atr
+data/*.xws
+
+# Model weights (PyTorch)
+models/*.pt
+models/*.pth
+models/*.pkl
+models/*.bin
